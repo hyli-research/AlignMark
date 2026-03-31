@@ -6,7 +6,7 @@ This repository is released for double-blind review.
 
 ## Demo
 
-Visit the [demo](https://anonymouswatermark.github.io/icme2026_wm/) to compare different audio watermarking methods.
+Visit the [demo](https://hyli-research.github.io/AlignMark) to compare different audio watermarking methods.
 
 ## Features
 

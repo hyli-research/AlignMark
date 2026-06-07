@@ -4,9 +4,11 @@ Official demo for **"Feature-Aligned Speech Watermarking for Robustness to Recon
 
 Authors: Haiyun Li, Shuhai Peng, Zhisheng Zhang, Jingran Xie, Xiaofeng Xie, Hanyang Peng, and Zhiyong Wu.
 
-## Demo
+## Demo and Code
 
 Visit the [demo](https://hyli-research.github.io/AlignMark) to compare different audio watermarking methods.
+
+Code repository: [https://huggingface.co/haiyunli/AlignMark](https://huggingface.co/haiyunli/AlignMark)
 
 ## Abstract
 
